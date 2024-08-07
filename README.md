@@ -1,2 +1,2 @@
-# open-card_store
-BOYA website with open card technology
+# BOYA STORE
+BOYA is a website with open card technology that sells painting products
